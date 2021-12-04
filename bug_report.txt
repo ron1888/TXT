@@ -1,0 +1,10 @@
+Title: "Что? Где? Когда?"
+Severity: Critical	
+Окружение: Google Chrome Версия 96.0.4664.45 (Официальная сборка), (64 бит)
+Steps to Reproduce: 
+Шаг1
+Шаг2
+Шаг3
+
+Result:	Фактический Результат
+Expected Result:	Ожидаемый правильный результат
